@@ -32,7 +32,7 @@ When I'm not coding, you'll find me behind a camera lens 📸, lost in philosoph
 - Advanced React patterns and best practices
 
 ## 💡 What Drives Me
-I love solving problems—whether it's perfecting a tricky CSS layout or debugging complex logic. Every challenge is an opportunity to learn and grow. As a beginner, I'm excited to explore all aspects of web development and discover where my passion truly lies.
+I love solving problems,whether it's perfecting a tricky CSS layout or debugging complex logic. Every challenge is an opportunity to learn and grow. As a beginner, I'm excited to explore all aspects of web development and discover where my passion truly lies.
 
 ## 📫 Let's Connect
 - **Email:** akinfemiakinwumi7@gmail.com
